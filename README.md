@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## I'm currently working on a FiveM Script
+## Looking to collaborate on Scripting
+## Ask me about my love for Graphic Design and Firefighting
+## Reach be on Discord @Robinson#7901
 <!--
 **symeRobinson/symeRobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
